@@ -28,3 +28,15 @@ Documenting my 60-day intensive pathway from core fundamentals to production-gra
   * **Groups:** Collections of users mapped to shared permission sets.
   * **Roles:** Temporary credentials assumed by authorized entities without hardcoding static keys.
   * **Policies:** JSON documents defining explicit `Allow` or `Deny` rules over resources.
+
+---
+
+## 📌 Day 02 — Linux & Command Line Foundations
+
+### Key Objectives
+* Mastered Linux filesystem navigation, file operations, and stream filtering (`grep`, `cat`, redirection operators).
+* Configured file execution permissions using `chmod`.
+* Developed a custom Bash script (`env_check.sh`) to automate workstation environment audits and identity checks.
+
+### Practical Output
+* Script execution verified AWS CLI and Git presence while printing current IAM caller identity ARN.
