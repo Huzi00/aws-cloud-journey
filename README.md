@@ -40,3 +40,16 @@ Documenting my 60-day intensive pathway from core fundamentals to production-gra
 
 ### Practical Output
 * Script execution verified AWS CLI and Git presence while printing current IAM caller identity ARN.
+
+---
+
+## 📌 Day 03 — Advanced Git & Version Control Workflows
+
+### Key Objectives
+* Practiced production-grade Git branching strategy using dedicated feature branches (`feature/day-03-git`).
+* Mastered local snapshot management across working directory, staging area, and local commits.
+* Completed clean branch merging into `main` and branch lifecycle cleanup (`git branch -d`).
+
+### Practical Output
+* Structured Day 03 version control documentation created on an isolated branch and merged cleanly into production history.
+
