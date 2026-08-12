@@ -53,3 +53,14 @@ Documenting my 60-day intensive pathway from core fundamentals to production-gra
 ### Practical Output
 * Structured Day 03 version control documentation created on an isolated branch and merged cleanly into production history.
 
+---
+
+## 📌 Day 04 — AWS S3 Foundations & CLI Management
+
+### Key Objectives
+* Mastered Amazon S3 core architecture: Global naming namespaces, buckets, keys, and object metadata.
+* Provisioned and configured S3 storage buckets programmatically using the AWS CLI.
+* Performed object lifecycle management (`cp`, `sync`, `ls`, and `rm`) from the command line.
+
+### Practical Output
+* Created a globally unique S3 bucket and programmatically synced local data directories to AWS cloud storage.
