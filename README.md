@@ -64,3 +64,27 @@ Documenting my 60-day intensive pathway from core fundamentals to production-gra
 
 ### Practical Output
 * Created a globally unique S3 bucket and programmatically synced local data directories to AWS cloud storage.
+
+---
+
+## 📌 Day 05 — AWS IAM Deep Dive & Least Privilege Security
+
+### Key Objectives
+* Mastered AWS Identity & Access Management (IAM) architecture: Users, Groups, Roles, and JSON Policy evaluation logic.
+* Enforced the Principle of Least Privilege by authoring custom granular IAM JSON permission policies.
+* Programmatically provisioned and inspected customer-managed IAM policies using the AWS CLI.
+
+### Practical Output
+* Authored a customer-managed granular IAM JSON policy enforcing S3 list-only restrictions and managed it via AWS CLI.
+
+---
+
+## 📌 Day 06 — AWS EC2 Essentials & Virtual Firewalls
+
+### Key Objectives
+* Explored Amazon EC2 virtual machine architecture, AMIs, instance types, and network security controls.
+* Programmatically provisioned SSH Key Pairs and set up local file permissions (`chmod 400`).
+* Configured stateful Security Group virtual firewalls and authorized inbound network ingress via AWS CLI.
+
+### Practical Output
+* Managed compute security credentials and network rules using AWS CLI `ec2` subcommands.
