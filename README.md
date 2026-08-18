@@ -88,3 +88,12 @@ Documenting my 60-day intensive pathway from core fundamentals to production-gra
 
 ### Practical Output
 * Managed compute security credentials and network rules using AWS CLI `ec2` subcommands.
+
+---
+
+## 📌 Day 07 — Launching EC2 & Bootstrapping Nginx Web Server
+
+### Key Objectives
+* Provisioned an EC2 instance with custom User Data bootstrapping for automated Nginx web server installation.
+* Configured multi-port Security Group ingress rules (Port 22 SSH & Port 80 HTTP).
+* Verified live web deployment via public IPv4 address and terminated compute resources via AWS CLI.
