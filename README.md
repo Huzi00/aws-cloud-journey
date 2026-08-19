@@ -97,3 +97,15 @@ Documenting my 60-day intensive pathway from core fundamentals to production-gra
 * Provisioned an EC2 instance with custom User Data bootstrapping for automated Nginx web server installation.
 * Configured multi-port Security Group ingress rules (Port 22 SSH & Port 80 HTTP).
 * Verified live web deployment via public IPv4 address and terminated compute resources via AWS CLI.
+
+---
+
+## 📌 Day 08 — AWS Elastic Block Store (EBS) & Storage Management
+
+### Key Objectives
+* Explored AWS block storage architecture, SSD/HDD volume types (`gp3`, `io2`), and snapshot lifecycle management.
+* Programmatically provisioned standalone EBS volumes tied to specific Availability Zones via AWS CLI.
+* Executed storage lifecycle commands, state validation, and clean resource teardown.
+
+### Practical Output
+* Managed EBS volumes and verified regional Availability Zone scope constraints using `aws ec2` storage subcommands.
