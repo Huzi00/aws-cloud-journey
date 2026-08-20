@@ -109,3 +109,16 @@ Documenting my 60-day intensive pathway from core fundamentals to production-gra
 
 ### Practical Output
 * Managed EBS volumes and verified regional Availability Zone scope constraints using `aws ec2` storage subcommands.
+
+---
+
+## 📌 Day 09 — Custom VPC Architecture & Subnet Routing
+
+### Key Objectives
+* Designed and provisioned custom Virtual Private Cloud (VPC) network infrastructure using AWS CLI.
+* Created custom CIDR subnets (`10.0.1.0/24`), Internet Gateways, and explicit public route tables (`0.0.0.0/0`).
+* Managed complex dependency chains and clean network resource deletion workflows.
+
+### Practical Output
+* Automated network infrastructure creation via `day-09/vpc_setup.sh`.
+
